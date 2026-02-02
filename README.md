@@ -8,5 +8,7 @@ En esta sección se reportan ejercicios de aplicación y conceptos de Termodiná
 K. Wark y D. E. Richards, Thermodynamics, 6th ed.
 
 ## Conceptualización :
-- Capitulo 1 : introducción.
-- Capitulo 2 : primera ley de la termodinámica.
+- Capítulo 1 : introducción.
+- Capítulo 2 : primera ley de la termodinámica.
+- Capítulo 3 : sustancia pura.
+
