@@ -11,4 +11,5 @@ K. Wark y D. E. Richards, Thermodynamics, 6th ed.
 - Capítulo 1 : introducción.
 - Capítulo 2 : primera ley de la termodinámica.
 - Capítulo 3 : sustancia pura.
-
+- Capítulo 4 : gas ideal.
+- Capítulo 5 : análisis de primera ley en sistemas abiertos.
