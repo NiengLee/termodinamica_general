@@ -3,12 +3,7 @@ En esta sección se reportan ejercicios de aplicación y conceptos de Termodiná
 
 ## Referencias bibliográficas:
 - #### Çengel Y. A. y M. A. Boles, Thermodynamics 8th ed.
-
-![alt text](Cengel Y Termodinamica.png)
-
 - #### K. Wark y D. E. Richards, Thermodynamics, 6th ed.
-
-![alt text](Wark K Termodinámica.png)
 
 ## Conceptualización :
 - Capítulo 1 : introducción [Link de explicación](https://www.youtube.com/watch?v=LJG2YGzfeLk).
