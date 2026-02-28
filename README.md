@@ -13,10 +13,10 @@ En esta sección se reportan ejercicios de aplicación y conceptos de Termodiná
 - Capítulo 5 : análisis de primera ley en sistemas abiertos [Link de explicación](https://www.youtube.com/watch?v=RHnZUX8A_t4).
 - Capítulo 6 : segunda ley de la termodinámica [Link de explicación](https://www.youtube.com/watch?v=T-ywpB1Rhcw).
 - Capítulo 7 : consecuencias de la segunda ley de la termodinámica, Entropía [Link de explicación](https://www.youtube.com/watch?v=K5vAw9pHv7k).
-- Capítulo 8 : ecuaciones de estado para comportamiento de gas real.
+- Capítulo 8 : ecuaciones de estado para comportamiento de gas real. [Link de explicación](https://www.youtube.com/watch?v=-efXBAygncA)
 
 ### Funciones de termodinámica general
 - Cálculo de calidad
 - Cálculo de propiedades en estado de saturación
-- Interpolación lineal para estado sobrecalentado / subenfriado
+- Interpolación lineal para estados
 - Cálculo de cambio de entalpía o energía interna
