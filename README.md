@@ -14,9 +14,11 @@ En esta sección se reportan ejercicios de aplicación y conceptos de Termodiná
 - Capítulo 6 : segunda ley de la termodinámica [Link de explicación](https://www.youtube.com/watch?v=T-ywpB1Rhcw).
 - Capítulo 7 : consecuencias de la segunda ley de la termodinámica, Entropía [Link de explicación](https://www.youtube.com/watch?v=K5vAw9pHv7k).
 - Capítulo 8 : ecuaciones de estado para comportamiento de gas real. [Link de explicación](https://www.youtube.com/watch?v=-efXBAygncA)
+- Capítulo 9 : balances de exergía, energía disponible, trabajo útil. [Link de explicación](https://www.youtube.com/watch?v=P9v_qLHGCss)
+- Capítulo 10 : Relaciones termodinámicas. [Link de explicación](https://www.youtube.com/watch?v=_bJPh-6JYTY)
 
 ### Funciones de termodinámica general
 - Cálculo de calidad
 - Cálculo de propiedades en estado de saturación
 - Interpolación lineal para estados
-- Cálculo de cambio de entalpía o energía interna
+- Cálculo de cambio de entalpía o energía interna (versiones de Kenneth w. y Çengel Y. )
