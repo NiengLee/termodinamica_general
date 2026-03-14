@@ -17,7 +17,11 @@ En esta sección se reportan ejercicios de aplicación y conceptos de Termodiná
 - Capítulo 9 : balances de exergía, energía disponible, trabajo útil. [Link de explicación](https://www.youtube.com/watch?v=P9v_qLHGCss)
 - Capítulo 10 : Relaciones termodinámicas. [Link de explicación](https://www.youtube.com/watch?v=_bJPh-6JYTY)
 
-### Funciones de termodinámica general
+## Ejercicios de aplicación : 
+
+En este [Link](https://www.youtube.com/playlist?list=PLNTz6O_H_A9-rJuINla9qnq3fjdD6HAmP) se encontrarán la explicación de cada ejercicio de termodinámica de este repositorio.
+
+## Funciones de termodinámica general
 - Cálculo de calidad
 - Cálculo de propiedades en estado de saturación
 - Interpolación lineal para estados
