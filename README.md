@@ -6,6 +6,9 @@ En esta sección se reportan ejercicios de aplicación y conceptos de Termodiná
 - #### [K. Wark y D. E. Richards, Thermodynamics, 6th ed.](https://www.casadellibro.com.co/libro-termodinamica/9788448128296/734667)
 
 ## Conceptualización :
+
+Se tratan los conceptos pertinentes y relacionados con la termódinamica general:
+
 - Capítulo 1 : introducción [Link de explicación](https://www.youtube.com/watch?v=LJG2YGzfeLk).
 - Capítulo 2 : primera ley de la termodinámica [Link de explicación](https://www.youtube.com/watch?v=3T2mMMXJL3U).
 - Capítulo 3 : sustancia pura [Link de explicación](https://www.youtube.com/watch?v=6567vw_4lEw).
@@ -16,6 +19,14 @@ En esta sección se reportan ejercicios de aplicación y conceptos de Termodiná
 - Capítulo 8 : ecuaciones de estado para comportamiento de gas real. [Link de explicación](https://www.youtube.com/watch?v=-efXBAygncA)
 - Capítulo 9 : balances de exergía, energía disponible, trabajo útil. [Link de explicación](https://www.youtube.com/watch?v=P9v_qLHGCss)
 - Capítulo 10 : Relaciones termodinámicas. [Link de explicación](https://www.youtube.com/watch?v=_bJPh-6JYTY)
+
+## Módulos extras : 
+
+Se tratan conceptos avanzados de termódinamica, para el análisis de sistemas multicomponentes y análisis en sistemas reactivos:
+
+- Extra_capítulo 11 : Mezcla no reactivas de gases ideales.
+- Extra_capítulo 12 : Reacciones químicas.
+- Extra_capítulo 13 : Equilibrio químico.
 
 ## Ejercicios de aplicación : 
 
